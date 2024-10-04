@@ -1,0 +1,12 @@
+transformers
+accelerate
+bitsandbytes
+langchain
+datasets
+loralib
+sentencepiece
+cohere
+openai
+tiktoken
+typing-extensions<4.6.0
+kaleido
